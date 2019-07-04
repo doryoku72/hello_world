@@ -1,2 +1,2 @@
 # hello_world
-nothing
+have a try
